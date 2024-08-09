@@ -13,6 +13,15 @@ const Booking = () => {
             <option>Bahamas</option>
             <option>Seychelles</option>
             <option>Maui</option>
+            <option>Blue Ridge Mountains</option>
+            <option>Swiss Alps</option>
+            <option>Santorini</option>
+            <option>Amalfi Coast</option>
+            <option>Zanzibar</option>
+            <option>Pamalican Island</option>
+            <option>Fernando de Noronha</option>
+            <option>Cape Cod</option>
+            <option>Turks and Caicos</option>
           </select>
         </div>
         <div className="flex w-full">

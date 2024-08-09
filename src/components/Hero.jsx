@@ -13,10 +13,12 @@ const Hero = () => {
           <h1 className="font-bold text-4xl">Find your Special Trip</h1>
           <h2 className="text-4xl py-4 italic">With Paradise</h2>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet
-            iusto placeat enim maxime laudantium nulla tempore vitae consectetur
-            labore nemo dolorum laborum facere corrupti reiciendis, dolores
-            laboriosam id culpa aliquid.
+            At Paradise, our mission is to make travel planning
+            stress-free and enjoyable by providing a user-friendly platform that
+            offers a wide range of flight options and hotel accommodations. We
+            are committed to delivering exceptional customer service,
+            competitive pricing, and personalized travel solutions that cater to
+            the unique needs of every traveler.
           </p>
         </div>
       </div>
